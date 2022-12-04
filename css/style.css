@@ -1,0 +1,26 @@
+
+.submit_margin{
+    margin-right: 1rem;
+}
+span.a{
+    word-spacing: 5px;
+}
+.order_confirm{
+    border: none;
+}
+@media screen and (max-width: 1500px) and (min-width: 800px){
+    .order_confirm{
+        width: 27rem !important;
+        
+    }
+}
+@media screen and (max-width: 600px) {
+    .form-control{
+        width: 300px;
+    }
+}
+@media screen and (max-width: 600px) {
+    .form-control{
+        width: 300px;
+    }
+}
